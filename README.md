@@ -29,13 +29,13 @@ General aviation
 
 Airliner
 
-| Plane             | Status                    | Version   | Remarks   |
-| ---               | ---                       | ---       | ---       |
-| Citation CJ4      | :calendar: Planned        |           |           |
-| FBW A320 Neo      | :calendar: Planned        |           |           |
-| Fenix A320        | :construction: Ongoing    |           |           |
-| Aerosoft CRJ      | :calendar: Planned        |           |           |
-| PMDG Boeing 737   | :x: Not planned           |           |           |
+| Plane             | Status                                                                                                    | Version   | Remarks   |
+| ---               | ---                                                                                                       | ---       | ---       |
+| Citation CJ4      | :calendar: Planned                                                                                        |           |           |
+| FBW A320 Neo      | :calendar: Planned                                                                                        |           |           |
+| Fenix A320        | :construction: [Incomplete](https://github.com/aHugues/msfs-honeycomb-bindings/tree/main/Fenix%20A320)    | `0.23`    |           |
+| Aerosoft CRJ      | :calendar: Planned                                                                                        |           |           |
+| PMDG Boeing 737   | :x: Not planned                                                                                           |           |           |
 
 ## Adding a new profile
 
