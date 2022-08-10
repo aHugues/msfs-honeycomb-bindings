@@ -15,6 +15,28 @@ On the Alpha yoke those buttons are:
 - left thumb hat
 - left white trigger
 
+## Current profiles
+
+General aviation
+
+| Plane                 | Status                                                                                            | Remarks   |
+| ---                   | ---                                                                                               | ---       |
+| Cessna 152            | :heavy_check_mark: [Complete](https://github.com/aHugues/msfs-honeycomb-bindings/tree/main/C152)  |           |
+| Cessna 172            | :construction: Ongoing                                                                            |           |
+| Diamond DA40          | :calendar: Planned                                                                                |           |
+| Diamont DA62          | :calendar: Planned                                                                                |           |
+| Milviz Cessna C310R   | :calendar: Planned                                                                                |           |
+
+Airliner
+
+| Plane             | Status                    | Remarks   |
+| ---               | ---                       | ---       |
+| Citation CJ4      | :calendar: Planned        |           |
+| FBW A320 Neo      | :calendar: Planned        |           |
+| Fenix A320        | :construction: Ongoing    |           |
+| Aerosoft CRJ      | :calendar: Planned        |           |
+| PMDG Boeing 737   | :x: Not planned           |           |
+
 ## Adding a new profile
 
 A new profile can be added by creating a new folder with the SPAD.Next XML file as well as a markdown documentation using [the provided template](https://github.com/aHugues/msfs-honeycomb-bindings/blob/main/templates/profile.md).
