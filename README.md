@@ -19,23 +19,23 @@ On the Alpha yoke those buttons are:
 
 General aviation
 
-| Plane                 | Status                                                                                            | Remarks   |
-| ---                   | ---                                                                                               | ---       |
-| Cessna 152            | :heavy_check_mark: [Complete](https://github.com/aHugues/msfs-honeycomb-bindings/tree/main/C152)  |           |
-| Cessna 172            | :construction: Ongoing                                                                            |           |
-| Diamond DA40          | :calendar: Planned                                                                                |           |
-| Diamont DA62          | :calendar: Planned                                                                                |           |
-| Milviz Cessna C310R   | :calendar: Planned                                                                                |           |
+| Plane                 | Status                                                                                            | Version   | Remarks   |
+| ---                   | ---                                                                                               | ---       | ---       |
+| Cessna 152            | :heavy_check_mark: [Complete](https://github.com/aHugues/msfs-honeycomb-bindings/tree/main/C152)  | `0.12`    |           |
+| Cessna 172            | :construction: Ongoing                                                                            |           |           |
+| Diamond DA40          | :calendar: Planned                                                                                |           |           |
+| Diamont DA62          | :calendar: Planned                                                                                |           |           |
+| Milviz Cessna C310R   | :calendar: Planned                                                                                |           |           |
 
 Airliner
 
-| Plane             | Status                    | Remarks   |
-| ---               | ---                       | ---       |
-| Citation CJ4      | :calendar: Planned        |           |
-| FBW A320 Neo      | :calendar: Planned        |           |
-| Fenix A320        | :construction: Ongoing    |           |
-| Aerosoft CRJ      | :calendar: Planned        |           |
-| PMDG Boeing 737   | :x: Not planned           |           |
+| Plane             | Status                    | Version   | Remarks   |
+| ---               | ---                       | ---       | ---       |
+| Citation CJ4      | :calendar: Planned        |           |           |
+| FBW A320 Neo      | :calendar: Planned        |           |           |
+| Fenix A320        | :construction: Ongoing    |           |           |
+| Aerosoft CRJ      | :calendar: Planned        |           |           |
+| PMDG Boeing 737   | :x: Not planned           |           |           |
 
 ## Adding a new profile
 
